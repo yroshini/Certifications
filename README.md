@@ -81,7 +81,7 @@ This repository is a consolidated showcase of all the certifications I have comp
 
 ## 📬 Contact
 
-If you have any questions or want to collaborate, feel free to connect with me on [LinkedIn](https://linkedin.com/) or email me at `your.email@example.com`.
+If you have any questions or want to collaborate, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/roshini-y-291905253/) or email me at `roshini.ece2024.rce@gmail.com`.
 
 ---
 
