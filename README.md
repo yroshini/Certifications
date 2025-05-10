@@ -39,7 +39,7 @@ Each certification is placed in its own folder, named according to the course ti
 ## ☕ Java Certifications
 
 ### 📘 Basics
-- ![Java Basic Certificate](/Java-Certifications/java_basic certificate_page-0001.jpg)
+- ![Java Basic Certificate](/Java-Certifications/java-basic-certificate.jpg)
 - ![Java - Great Learning](/Java-Certifications/Java-Great-Learning.png)
 
 ### 🔄 OOP
