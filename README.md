@@ -12,42 +12,62 @@ Each certification is placed in its own folder, named according to the course ti
 
 ---
 
-## 🧠 Programming Languages
-- [Python Data Structures – University of Michigan (Coursera)](./Python-Data-Structures/)
-- [Java Programming: Arrays, Lists, and Structured Data – Duke University (Coursera)](./Java_Programming/)
-- [Programming Fundamentals in C – Duke University (Coursera)](./C_Programming_Fundamentals/)
-- [HackerRank Python (Basic)](./HackerRank_Python_Basic/)
-- [HackerRank Java (Basic)](./HackerRank_Java_Basic/)
+## 🐍 Python Certifications
+
+### 📘 Basics
+- ![Crash Course on Python](/Python-Certifications/Crash-Course-on-Python_page-0001.jpg)
+- ![Intro to Python - Kaggle](/Python-Certifications/Intro-to-Python-Programming-Kaggle.png)
+- ![Python Basics Certificate](/Python-Certifications/python-basic-certificate_page-0001.jpg)
+- ![Python Course - Era](/Python-Certifications/python-course-era_page-0001.jpg)
+- ![Python - Udemy](/Python-Certifications/Python-Udemy_page-0001.jpg)
+- ![Python Fundamentals - Great Learning](/Python-Certifications/Python-Fundamentals-Great-Learning.png)
+
+### 🔄 OOP (Object-Oriented Programming)
+- ![OOPs in Python - Great Learning](/Python-Certifications/OOPs-python-Great-Learning.jpg)
+
+### 📊 Data Structures & Applications
+- ![Python Data Structures Certificate](/Python-Certifications/Python-Data-Structures_page-0001.jpg)
+- ![Data Structures - Great Learning](/Python-Certifications/Data-Structures-Great-Learning.png)
+- ![Using Python with OS](/Python-Certifications/Using-Python-to-Interact-with-the-Operating-Systems_page-0001.jpg)
+
+### 📈 Data Science
+- ![Data Science with Python - Great Learning](/Python-Certifications/Data-Science-Python-Great-learning.jpg)
+- ![Kaggle Python Certificate](/Python-Certifications/kaggle-python.png)
 
 ---
 
-## 🌐 Web Development
-- [Programming Foundations with JavaScript, HTML and CSS – Duke University (Coursera)](./JS_HTML_CSS_Foundations/)
-- [MERN Stack Web Development – Apna College](./MERN_Stack_Web_Development/)
-- [Responsive Web Design – freeCodeCamp](./Responsive_Web_Design/)
-- [HTML & CSS for Beginners – Great Learning](./HTML_CSS_Basics/)
+## ☕ Java Certifications
+
+### 📘 Basics
+- ![Java Basic Certificate](/Java-Certifications/java_basic certificate_page-0001.jpg)
+- ![Java - Great Learning](/Java-Certifications/Java-Great-Learning.png)
+
+### 🔄 OOP
+- ![OOP in Java - Great Learning](/Java-Certifications/Oop-Java-Great-Learning.png)
+
+### 🧩 Data Structures & Problem Solving
+- ![Java Programming: Solving Problems](/Java-Certifications/Java-Programming-Solving-Problems-With-Software_page-0001.jpg)
+- ![Java Programming: Arrays, Lists, and Structured Data](/Java-Certifications/Java-Programming-Arrays-Lists-and-Structured-Data_page-0001.jpg)
 
 ---
 
-## 📊 Data Science & Machine Learning
-- [AI & Machine Learning Internship – SmartKnower](./AI_ML_SmartKnower/)
-- [Data Science Internship – Pantech E-Learning](./Data_Science_Pantech/)
-- [Data Science Workshop – APSSDC](./Data_Science_Workshop_APSSDC/)
-- [Python for Data Science – Kaggle](./Python_Data_Science_Kaggle/)
+## 🌐 Web Development Certifications
+
+### 📘 Basics
+- ![HTML - Great Learning](/Web-Development/HTML-Great-Learning.jpg)
+
+### 📗 Foundations
+- ![Programming Foundations with JavaScript, HTML and CSS](/Web-Development/Programming Foundations with JavaScript, HTML and CSS_page-0001.jpg)
+
+### 💻 Practical Development
+- ![Web Development - 1Stop](/Web-Development/Web-Development-1Stop_page-0001.jpg)
 
 ---
 
-## 🔧 IoT, VLSI & Hardware
-- [IoT Internship – Pantech E-Learning](./IoT_Pantech/)
-- [VLSI Design Workshop – APSSDC](./VLSI_Workshop/)
-- [PCB Design Training – APSSDC](./PCB_Design_APSSDC/)
-- [MATLAB for Engineers – MathWorks](./MATLAB_Certification/)
+### ✅ Note:
+- Certifications are earned from platforms like Coursera, Great Learning, Kaggle, Udemy, etc.
+- They represent structured learning in Python, Java, and Web Development.
 
----
-
-## 🛠️ Tools & Miscellaneous
-- [Git & GitHub for Beginners – Udemy](./Git_GitHub_Udemy/)
-- [Prompt Engineering – DeepLearning.AI](./Prompt_Engineering_DL/)
 
 ---
 
@@ -73,4 +93,4 @@ If you have any questions or want to collaborate, feel free to connect with me o
 
 ---
 
-Thank you for visiting! 🚀
+Thanks for checking them out! 😊
