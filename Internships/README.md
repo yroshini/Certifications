@@ -6,7 +6,7 @@ Welcome to my Internships & Projects folder! This section highlights hands-on ex
 
 ## 🤖 AI & Machine Learning
 
-- ![AI-ML APSCHE](/Internships-Projects/AI-ML-APSCHE.jpg)
+- ![AI-ML APSCHE](/Internships/Internships-Projects/AI-ML-APSCHE.jpg)
 - ![AI-ML Blackbucks](/Internships-Projects/AI-ML-Blackbucks.jpg)
 - ![AI-ML EDUSKILLS](/Internships-Projects/AI-ML-EDUSKILLS.jpg)
 - ![AI-ML Smartridge](/Internships-Projects/AI-ML-Smartridge.png)
