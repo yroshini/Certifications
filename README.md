@@ -73,7 +73,7 @@ Each certification is placed in its own folder, named according to the course ti
 
 ## 🏆 Achievement Highlights
 
-- ✅ 25+ Recognized Certifications
+- ✅ 15+ Recognized Certifications
 - ✅ Completed multiple internships with hands-on projects
 - ✅ Certifications from Coursera, Udemy, HackerRank, Kaggle, Apna College, and more
 
