@@ -57,10 +57,10 @@ Each certification is placed in its own folder, named according to the course ti
 - ![HTML - Great Learning](/Web-Development/HTML-Great-Learning.jpg)
 
 ### 📗 Foundations
-- ![Programming Foundations with JavaScript, HTML and CSS](/Web-Development/Programming Foundations with JavaScript, HTML and CSS_page-0001.jpg)
+- ![Programming Foundations with JavaScript, HTML and CSS](/Web-Development/Programming-Foundations-with-JavaScript-HTML-and-CSS.jpg)
 
 ### 💻 Practical Development
-- ![Web Development - 1Stop](/Web-Development/Web-Development-1Stop_page-0001.jpg)
+- ![Web Development - 1Stop](/Web-Development/Web-Development-1Stop.jpg)
 
 ---
 
