@@ -23,7 +23,7 @@ Each certification is placed in its own folder, named according to the course ti
 - ![Python Fundamentals - Great Learning](/Python-Certifications/Python-Fundamentals-Great-Learning.png)
 
 ### 🔄 OOP (Object-Oriented Programming)
-- ![OOPs in Python - Great Learning](/Python-Certifications/OOPs-python-Great-Learning.jpg)
+- ![OOPs in Python - Great Learning](/Python-Certifications/OOps-python-Great-Learning.jpg)
 
 ### 📊 Data Structures & Applications
 - ![Python Data Structures Certificate](/Python-Certifications/Python-Data-Structures_page-0001.jpg)
