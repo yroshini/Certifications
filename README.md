@@ -1,7 +1,7 @@
 # 📜 Certifications Repository
 
 Welcome to my **Certifications Repository**!  
-This repository is a consolidated showcase of all the certifications I have completed across various domains including Programming, Web Development, Data Science, IoT, and more.
+This repository is a consolidated showcase of all the certifications I have completed across various domains including Programming, Web Development, Data Science and more.
 
 
 ## 🐍 Python Certifications
