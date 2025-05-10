@@ -13,7 +13,7 @@ Each certification is placed in its own folder, named according to the course ti
 ---
 
 ## 🧠 Programming Languages
-- [Python Data Structures – University of Michigan (Coursera)](./Python_Data_Structures/)
+- [Python Data Structures – University of Michigan (Coursera)](./Python-Data-Structures/)
 - [Java Programming: Arrays, Lists, and Structured Data – Duke University (Coursera)](./Java_Programming/)
 - [Programming Fundamentals in C – Duke University (Coursera)](./C_Programming_Fundamentals/)
 - [HackerRank Python (Basic)](./HackerRank_Python_Basic/)
