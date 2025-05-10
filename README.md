@@ -3,14 +3,6 @@
 Welcome to my **Certifications Repository**!  
 This repository is a consolidated showcase of all the certifications I have completed across various domains including Programming, Web Development, Data Science, IoT, and more.
 
-## 📁 Folder Structure
-
-Each certification is placed in its own folder, named according to the course title or platform, and contains:
-- Certificate file (PDF/Image)
-- Any relevant project/code (if applicable)
-- Notes or summaries (if applicable)
-
----
 
 ## 🐍 Python Certifications
 
